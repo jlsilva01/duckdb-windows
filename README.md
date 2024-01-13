@@ -24,9 +24,9 @@ Exemplo do comando acima:
 
 ![Alt text](image.png)
 
-Para sair do shell do DuckDB, pressionar `Control+Z`.
+Para sair do shell do DuckDB, pressione `Control+Z`.
 
-Para verificar a versão:
+Para verificar a versão do DuckDB:
 
 ``` bash copy
 duckdb --version
