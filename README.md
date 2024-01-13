@@ -22,7 +22,7 @@ duckdb
 
 Exemplo do comando acima:
 
-![Alt text](image.png)
+![Alt text](img/img1.png)
 
 Para sair do shell do DuckDB, pressione `Control+Z`.
 
@@ -33,7 +33,7 @@ duckdb --version
 ```
 Exemplo do comando acima:
 
-![Alt text](image-1.png)
+![Alt text](img/img2.png)
 
 
 ### Referências:
