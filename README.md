@@ -1,4 +1,4 @@
-# Instalando o DuckDB CLI no Windows
+# Instalando o DuckDB no Windows
 
 ### O que é o DuckDB?
 
