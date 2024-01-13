@@ -12,7 +12,7 @@ Abra uma tela do Prompt de Comando / Terminal e digite o comando abaixo:
 winget install DuckDB.cli
 ```
 
-Ao efetuar a instalação pelo winget, ele cria uma pasta em `C:\Users\<<usuario>>\AppData\Local\Microsoft\WinGet\Packages\DuckDB.cli_Microsoft.Winget.Source...`, coloca o arquivo `duckdb.exe` lá dentro e também adiciona no PATH do Windows.
+Ao efetuar a instalação pelo winget, ele cria uma pasta em `C:\Users\<<usuario>>\AppData\Local\Microsoft\WinGet\Packages\DuckDB.cli_Microsoft.Winget.Source...`, coloca o arquivo `duckdb.exe` lá dentro e também adiciona no PATH do Windows automaticamente.
 
 ### Validando instalação
 
