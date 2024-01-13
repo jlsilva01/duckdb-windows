@@ -6,22 +6,23 @@ O DuckDB é um banco de dados relacional de código aberto, embarcado (similar a
 
 ### Instalação do DuckDB no Windows
 
+Abra uma tela do Prompt de Comando / Terminal e digite o comando abaixo:
+
 ``` bash copy
 winget install DuckDB.cli
 ```
 
-Ao efetuar a instalação pelo winget, ele cria uma pasta em `C:\Users\jlsil\AppData\Local\Microsoft\WinGet\Packages\DuckDB.cli_Microsoft.Winget.Source...` colocar o arquivo `duckdb.exe` lá dentro e também adiciona no PATH do Windows.
+Ao efetuar a instalação pelo winget, ele cria uma pasta em `C:\Users\<<usuario>>\AppData\Local\Microsoft\WinGet\Packages\DuckDB.cli_Microsoft.Winget.Source...`, coloca o arquivo `duckdb.exe` lá dentro e também adiciona no PATH do Windows.
 
 Para testar se está tudo ok, execute os comandos abaixo:
 
 ``` bash copy
 duckdb
 ```
+
+Exemplo do comando acima:
 ![Alt text](image.png)
 
-``` bash copy
-duckdb --version
-```
 Para sair do shell do DuckDB, pressionar Control+Z.
 
 Para verificar a versão:
@@ -29,6 +30,8 @@ Para verificar a versão:
 ``` bash copy
 duckdb --version
 ```
+Exemplo do comando acima:
+
 ![Alt text](image-1.png)
 
 
