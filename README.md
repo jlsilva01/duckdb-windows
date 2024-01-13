@@ -21,6 +21,7 @@ duckdb
 ```
 
 Exemplo do comando acima:
+
 ![Alt text](image.png)
 
 Para sair do shell do DuckDB, pressionar Control+Z.
